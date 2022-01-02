@@ -12,6 +12,6 @@ Optimistically, the user will have to indicate the GEO accession code of the RNA
 
 ## Contacts ##
 
-The `easyRnaSeqAnalysis` package will be developed by [Davide Chicco](https://www.DavideChicco.it). Questions should be
+The `easyRnaSeqAnalysis` package will be developed by [Davide Chicco](http://www.DavideChicco.it). Questions should be
 addressed to davidechicco(AT)davidechicco.it
 
